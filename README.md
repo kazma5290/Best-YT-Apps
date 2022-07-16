@@ -9,7 +9,8 @@ https://vancedapp.com/
  https://github.com/revanced
  
  NewPipe:
- https://github.com/TeamNewPipe
+ https://newpipe.net/
+   --  GitHub: https://github.com/TeamNewPipe
  
 SkyTube:
 https://skytube-app.com/
